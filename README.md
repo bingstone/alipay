@@ -1,7 +1,7 @@
 # alipay
 模拟支付宝平台
 
-本项目是基于yii 1.1版本来实现的，因此需要在官方网站http://www.yiiframework.com/download/上下载yii框架。
+本项目是基于yii 1.1版本来实现的，因此需要在官方网站http://www.yiiframework.com/download/ 上下载yii框架。
 安装流程如下：
 
 1.git clone https://github.com/bingstone/alipay.git
